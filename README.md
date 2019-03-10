@@ -5,6 +5,7 @@ This project used ocean water temperature data obtained from Ocean Observatories
 The minimum average temperature was 44.579012 °F. The maximum average temperature was 45.6986894 °F. The total temperature change was approximately 1.1 °F during 2017. The data was obtained 190 meters below the surface, which is near the end of the Epipelagic (sunlight) Zone.  
 
 Location of data used: https://ooinet.oceanobservatories.org/data_access/?search=RS03AXPS-PC03A-4A-CTDPFA303
+
 Search parameters:
   Array: Cabled Axial Seamount
   Platform name: Axial Base Shallow Profiler Mooring
