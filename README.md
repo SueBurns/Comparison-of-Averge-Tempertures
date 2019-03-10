@@ -21,6 +21,7 @@ Search parameters:
   Stream type: Science
   
   Streams downloaded: 
+    
     Previous: 24 hours
     Start date: 2017-01-01 
     End date: 2017-01-02
